@@ -21,7 +21,7 @@ log_file = "logs/TechSupport.log"
 data = TechSupport.db"
 """
 
-Stupidmoni = ["6216175814"]
+DEVS = ["6216175814"]
 CHANNEL = "-1001935550088"
 
 NOTIFY_CHAT = "6216175814"
