@@ -29,7 +29,7 @@ async def main_kb():
         )
         builder.add(
             types.InlineKeyboardButton(
-                text="🛠️ Order programme development 🛠️", url="https://t.me/night3098"
+                text="🛠️ Order programme development 🛠️", url="https://t.me/Stupidmoni"
             )
         )
 
@@ -60,25 +60,25 @@ async def contacts_btn():
         builder = InlineKeyboardBuilder()
         builder.add(
             types.InlineKeyboardButton(
-                text="⭐ Discord server", url="https://discord.gg/tnHSEc2cZv"
+                text="⭐ Discord server", url="https://discord.gg/"
             )
         )
         builder.add(
             types.InlineKeyboardButton(
-                text="⭐ Discord", url="https://discord.gg/#9707"
+                text="⭐ Discord", url="https://discord.gg/"
             )
         )
         builder.add(
-            types.InlineKeyboardButton(text="⭐ Telegram", url="https://t.me/night3098")
+            types.InlineKeyboardButton(text="⭐ Telegram", url="https://t.me/Stupidmoni")
         )
         builder.add(
             types.InlineKeyboardButton(
-                text="⭐ Reddit", url="https://www.reddit.com/user/DEVELOPER0x31/"
+                text="⭐ Reddit", url="https://www.reddit.com/user/Stupidmoni-dev/"
             )
         )
         builder.add(
             types.InlineKeyboardButton(
-                text="⭐ Dev.to", url="https://dev.to/nighty3098"
+                text="⭐ GitHub", url="https://github.com/Stupidmoni-dev/"
             )
         )
         builder.add(types.InlineKeyboardButton(text="⮜ Back", callback_data="Back"))
