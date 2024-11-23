@@ -1,5 +1,5 @@
 HELLO_MESSAGE = """
-*🍀 ツ  Hi\\! This is the N9 GROUP tech support bot\\. 🍀*
+*🍀 ツ  Hi\\! This is the Stupidmoni-dev GROUP tech support bot\\. 🍀*
 
 _If you have found bugs and errors in our programs\\, or you have suggestions for the development of the project\\, you can send information to our team using the bot\\._
 
@@ -27,16 +27,16 @@ OUR_PRODUCTS_TEXT = """
 """
 
 SUPPORT_TEXT = """
-🏦 You can support our project through TON 🏦
+🏦 You can support our project through Sol 🏦
 
-`UQCF-sPDO0QqkNtvy5CKSvYWEsZS6l7vzaytV36oYM0SNhKt`
+`Fsf1YWcYCrKhkEkb5W6MeSm2yQiGfXM6qdasjjfLhqeY`
 
 """
 
 INCORRECT_INPUT_FORMAT_ERROR = "Incorrect input format"
 
 HELP_MESSAGE = """
-🛠️ *This is a brief documentation on how to use the TechSupportBot* 🛠️
+🛠️ *This is a brief documentation on how to use the Stupidmoni-dev TechSupportBot* 🛠️
 
 ⬢ *ADMIN COMMANDS* ⬢
 
