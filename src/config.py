@@ -21,10 +21,10 @@ log_file = "logs/TechSupport.log"
 data = TechSupport.db"
 """
 
-DEVS = ["1660218648"]
-CHANNEL = "-1002237746780"
+Stupidmoni = ["6216175814"]
+CHANNEL = "-1001935550088"
 
-NOTIFY_CHAT = "1660218648"
+NOTIFY_CHAT = "6216175814"
 
 bot = Bot(TOKEN)
 dp = Dispatcher()
